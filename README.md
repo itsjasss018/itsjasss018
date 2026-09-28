@@ -38,11 +38,12 @@ Hi, I'm **Jas**! a second year BS Information Systems student at Bicol Universit
 </div>
 
 
-## 🐍 contribution garden
+## 🐍 Contribution Garden
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </div>
 
-*thanks for stopping by 🍵*
+---
+### That's it, thanks for stopping by!
 
 </div>
