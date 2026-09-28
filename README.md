@@ -1,16 +1,52 @@
-## Hi there 👋
+<p align="center">
+<img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Hi%2C+this+is+Jas!"
+    alt="Hi, this is Jas!"
+  />
+</p>
 
-<!--
-**itsjasss018/itsjasss018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi! I'm **Jas**, a BS Information Systems student interested in the space where **technology, design, and problem-solving** meet.
+
+<img align="right" src="./assets/matcha.gif" width="190" alt="Floating animated matcha drink" />
+
+### 🌿 currently learning
+- 🌐 Web Development
+- ⚙️ JavaScript & Web APIs
+- 🗄️ Databases & Backend Development
+- 🧠 Data Structures & Algorithms
+- 🔧 Git & GitHub
+- 🎨 UI/UX & Responsive Design
+- ☁️ Deployment & Cloud Technologies
+
+<br clear="right"/>
+---
+
+## 🧩 Languages, Databases & Tools I Work With
+
+### 💻 Languages
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js" />
+</div>
+### 🗄️ Databases
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</div>
+### 🛠️ Tools & Technologies
+<div align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap,nodejs,express,git,github,vscode" />
+</div>
+---
+
+## 🐍 contribution garden
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</div>
+---
+
+*thanks for stopping by 🍵*
+
+</div>
