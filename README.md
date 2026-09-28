@@ -47,7 +47,4 @@ Hi, I'm **Jas**! a second year BS Information Systems student and matcha enthusi
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </div>
 
----
-### That's it, thanks for stopping by!
-
 </div>
