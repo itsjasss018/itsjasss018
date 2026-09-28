@@ -21,6 +21,8 @@ Hi, I'm **Jas**! a second year BS Information Systems student and matcha enthusi
 
 <br clear="right"/>
 
+---
+
 ## Languages, Databases & Tools I’m Learning & Exploring
 
 ### Languages
@@ -38,6 +40,7 @@ Hi, I'm **Jas**! a second year BS Information Systems student and matcha enthusi
 <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,express,git,github,vscode" />
 </div>
 
+---
 
 ## A little corner
 <div align="center">
