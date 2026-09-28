@@ -3,12 +3,10 @@
 </p>
 
 ## About Me
-
 Hi! I'm **Jas**, a BS Information Systems student interested in the space where **technology, design, and problem-solving** meet.
-
 <img align="right" src="./assets/matcha.gif" width="190" alt="Floating animated matcha drink" />
 
-### 🌿 currently learning
+### Currently Learning
 - 🌐 Web Development
 - ⚙️ JavaScript & Web APIs
 - 🗄️ Databases & Backend Development
