@@ -42,7 +42,6 @@ Hi! I'm **Jas**, a BS Information Systems student interested in the space where 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </div>
----
 
 *thanks for stopping by 🍵*
 
