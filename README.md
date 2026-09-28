@@ -4,7 +4,7 @@
 
 ---
 ### About Me
-Hi! I'm **Jas**, a BS Information Systems student interested in the space where **technology, design, and problem-solving** meet.
+Hi, I'm **Jas**! a second year BS Information Systems student at Bicol University Polangui interested in the space where **technology, design, and problem-solving** meet.
 <img align="right" src="./assets/matcha.gif" width="190" alt="Floating animated matcha drink" />
 
 ---
