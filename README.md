@@ -39,7 +39,7 @@ Hi, I'm **Jas**! a second year BS Information Systems student and matcha enthusi
 </div>
 
 
-## 🐍 Contribution Garden
+## 🐍 A little corner
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </div>
