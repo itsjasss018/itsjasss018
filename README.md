@@ -2,9 +2,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Hi%2C+this+is+Jas!" />
 </p>
 
+---
 ### About Me
 Hi! I'm **Jas**, a BS Information Systems student interested in the space where **technology, design, and problem-solving** meet.
 <img align="right" src="./assets/matcha.gif" width="190" alt="Floating animated matcha drink" />
+
+---
 
 ### Currently Learning
 - 🌐 Web Development
