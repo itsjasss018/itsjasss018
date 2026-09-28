@@ -10,13 +10,13 @@ Hi! I'm **Jas**, a BS Information Systems student interested in the space where 
 ---
 
 ### Currently Learning
-🌐 Web Development
-⚙️ JavaScript & Web APIs
-🗄️ Databases & Backend Development
-🧠 Data Structures & Algorithms
-🔧 Git & GitHub
-🎨 UI/UX & Responsive Design
-☁️ Deployment & Cloud Technologies
+- 🌐 Web Development
+- ⚙️ JavaScript & Web APIs
+-🗄️ Databases & Backend Development
+- 🧠 Data Structures & Algorithms
+- 🔧 Git & GitHub
+- 🎨 UI/UX & Responsive Design
+- ☁️ Deployment & Cloud Technologies
 
 <br clear="right"/>
 
