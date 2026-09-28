@@ -1,11 +1,6 @@
 <p align="center">
-<img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Hi%2C+this+is+Jas!"
-    alt="Hi, this is Jas!"
-  />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Hi%2C+this+is+Jas!" />
 </p>
-
----
 
 ## About Me
 
