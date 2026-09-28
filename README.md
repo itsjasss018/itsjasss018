@@ -21,7 +21,7 @@ Hi, I'm **Jas**! a second year BS Information Systems student and matcha enthusi
 
 <br clear="right"/>
 
-## Languages, Databases & Tools I Work With
+## Languages, Databases & Tools I’m Learning & Exploring
 
 ### Languages
 <div align="center">
