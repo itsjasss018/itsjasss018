@@ -3,7 +3,7 @@
 </p>
 
 ---
-<h3 style="color:#39D353;"> About Me ★ </h3>
+### About Me ★ 
 Hi, I'm **Jas**! a second year BS Information Systems student and matcha enthusiast at Bicol University Polangui interested in the space where 
 **technology, design, and problem-solving** meet. 
 <img align="right" src="matcha.gif" width="190" alt="Floating animated matcha drink" />
