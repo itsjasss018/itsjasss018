@@ -5,7 +5,6 @@
 ---
 ### About Me ★ 
 Hi, I'm jas! A second-year BS Information Systems student and matcha enthusiast at Bicol University Polangui, interested in exploring technology, design, and problem-solving through computing.
-
 <img align="right" src="matcha.gif" width="190" alt="Floating animated matcha drink" />
 
 ---
