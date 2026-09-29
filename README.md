@@ -44,4 +44,6 @@ Hi, I'm jas! A second-year BS Information Systems student and matcha enthusiast 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </div>
 
+<p align="center">
+*powered by curiosity, creativity, and matcha.*
 </div>
