@@ -45,5 +45,6 @@ Hi, I'm jas! A second-year BS Information Systems student and matcha enthusiast 
 </div>
 
 <p align="center">
-*powered by curiosity, creativity, and matcha.*
+  
+**powered by curiosity, creativity, and matcha.**
 </div>
