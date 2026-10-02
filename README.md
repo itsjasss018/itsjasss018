@@ -47,5 +47,5 @@ I'm interested in exploring technology, design, and problem-solving through comp
 </div>
 
 <p align="center">
-<b><i></b>powered by curiosity, creativity, and matcha.</i></b>
+<b><i></b>powered by curiosity, creativity, and matcha ⋆˙⟡ </i></b>
 </div>
