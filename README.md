@@ -4,7 +4,7 @@
 
 ---
 ### About Me ★ 
-╰┈➤ A second-year BS Information Systems student and matcha enthusiast that is interested in exploring technology, design, and problem-solving through computing.
+A second-year BS Information Systems student and matcha enthusiast that is interested in exploring technology, design, and problem-solving through computing.
 <img align="right" src="matcha.gif" width="190" alt="Floating animated matcha drink" />
 
 ---
