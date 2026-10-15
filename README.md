@@ -22,11 +22,16 @@ A second-year BS Information Systems student and matcha enthusiast interested in
 
 ---
 
-## Languages, Databases & Tools I’m Learning & Exploring
+## Languages, CSS Frameworks, Databases, and Tools I’m Learning & Exploring
 
 ### Languages
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js" />
+</div>
+
+### CSS Frameworks
+<div align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
 </div>
 
 ### Databases
@@ -36,7 +41,7 @@ A second-year BS Information Systems student and matcha enthusiast interested in
 
 ### Tools & Technologies
 <div align="center">
-<img src="https://skillicons.dev/icons?i=bootstrap,nodejs,express,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,git,github,vscode" />
 </div>
 
 ---
