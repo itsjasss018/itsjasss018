@@ -26,7 +26,7 @@ A second-year BS Information Systems student and matcha enthusiast interested in
 
 ### Languages
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js" />
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,bootstrap,tailwind" />
 </div>
 
 ### Databases
