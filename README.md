@@ -41,7 +41,7 @@ A second-year BS Information Systems student and matcha enthusiast interested in
 
 ### Tools & Technologies
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,git,github,vscode,googlefont" />
 </div>
 
 ---
